@@ -1,6 +1,6 @@
 ## Kang HyoSeung | 강효승
 
-**Cloud · Backend · AI Engineering**
+**Cloud · Backend · Data Engineering · AI Engineering**
 
 클라우드 환경에서 데이터를 처리하고, AI를 실제 서비스로 연결하는 개발자입니다.  
 현재 소프트웨어 마에스트로 17기에서 Kubernetes 운영을 돕는 AI Agent **Kukie**를 개발하고 있습니다.
